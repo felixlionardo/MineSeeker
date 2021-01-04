@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Rebel Crusher</string>
+    <string name="mines_selected">\" Rebel Bases\"</string>
+    <string name="board_selected">\" Board Selected\"</string>
+    <string name="number_of_mines">Number of Rebel Bases</string>
+    <string name="board_size">Board Size</string>
+    <string name="game_options">Game Options</string>
+    <string name="linktosite2">
+        <a href="https://www.mcgintysmealanale.co.uk/">https://www.mcgintysmealanale.co.uk/</a>
+    </string>
+    <string name="linktosite3">
+        <a href="https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/home">https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt276/home</a>
+    </string>
+    <string name="help">Help</string>
+    <string name="help_author">Author = Felix Lionardo And Matthew Winailan</string>
+    <string name="help_text1">How to play =</string>
+    <string name="help_text2">- Player must scan the area to reveal the rebels by clicking on the box</string>
+    <string name="help_text3">- Each time a player click the box the scan will increment by 1 (the less the scan the better)</string>
+    <string name="help_text4">- if a number is shown on the box means that there is that much number of rebels in that box\'s rows and columns</string>
+    <string name="help_referencehead">Reference =</string>
+    <string name="help_about">About Author =</string>
+    <string name="help_main_menu_button">Main Menu</string>
+    <string name="main_skip_button">Skip</string>
+    <string name="main_author">By: Felix Lionardo and Matthew Winailan</string>
+    <string name="main_play_button">Play Game</string>
+    <string name="main_options_button">Options</string>
+    <string name="main_help_button">Help</string>
+    <string name="options_confirm_button">Confirm</string>
+    <string name="options_board_size">Board Size</string>
+    <string name="options_bases">Bases</string>
+    <string name="options_board_field">Insert Board Size</string>
+    <string name="options_settings_head">Current Settings:</string>
+    <string name="options_number_of_bases">Insert Number of Bases</string>
+    <string name="background_music_title">Background Music: bi*ch lasagna - PewDiePie</string>
+    <string name="https_earthspacecircle_blogspot_com_p_andromeda_galaxy_wallpaper_hd_html">
+        <a href= "https://earthspacecircle.blogspot.com/p/andromeda-galaxy-wallpaper-hd.html">https://earthspacecircle.blogspot.com/p/andromeda-galaxy-wallpaper-hd.html</a></string>
+    <string name="https_www_youtube_com_watch_v_6dh_rl_un4_https_www_wallpaperup_com_69661_planets_sky_light_blue_space_html">
+        <a href= "https://www.wallpaperup.com/69661/Planets_Sky_Light_Blue_Space.html">https://www.wallpaperup.com/69661/Planets_Sky_Light_Blue_Space.html</a></string>
+    <string name="https_www_youtube_com_watch_v_6dh_rl_un4">
+        <a href="https://www.youtube.com/watch?v=6Dh-RL__uN4">https://www.youtube.com/watch?v=6Dh-RL__uN4</a></string>
+    <string name="https_starwars_fandom_com_wiki_star_wars_rebels">
+        <a href="https://starwars.fandom.com/wiki/Star_Wars_Rebels">https://starwars.fandom.com/wiki/Star_Wars_Rebels</a></string>
+    <string name="https_www_starwars_com_news_5_symbols_in_the_star_wars_universe">
+        <a href="https://www.starwars.com/news/5-symbols-in-the-star-wars-universe">https://www.starwars.com/news/5-symbols-in-the-star-wars-universe</a></string>
+    <string name="https_www_denofgeek_com_culture_star_wars_zoom_backgrounds">
+        <a href="https://www.denofgeek.com/culture/star-wars-zoom-backgrounds/">https://www.denofgeek.com/culture/star-wars-zoom-backgrounds/</a></string>
+    <string name="https_www_clipartmax_com_middle_m2i8i8m2k9z5h7g6_resistance_by_pointingmonkey_star_wars_rebel_symbol">
+        <a href="https://www.clipartmax.com/middle/m2i8i8m2K9Z5H7G6_resistance-by-pointingmonkey-star-wars-rebel-symbol/">https://www.clipartmax.com/middle/m2i8i8m2K9Z5H7G6_resistance-by-pointingmonkey-star-wars-rebel-symbol/</a></string>
+    <string name="https_www_myinstants_com_instant_lakad_matatag_normalin_normali">
+        <a href="https://www.myinstants.com/instant/lakad-matatag-normalin-normali/">https://www.myinstants.com/instant/lakad-matatag-normalin-normali/</a></string>
+    <string name="https_www_myinstants_com_instant_oy_oy_oy_dota_2_32859">
+        <a href="https://www.myinstants.com/instant/oy-oy-oy-dota-2-32859/">https://www.myinstants.com/instant/oy-oy-oy-dota-2-32859/</a></string>
+    <string name="https_www_myinstants_com_instant_the_next_level_play_dota_2_79830">
+        <a href="https://www.myinstants.com/instant/the-next-level-play-dota-2-79830/">https://www.myinstants.com/instant/the-next-level-play-dota-2-79830/</a></string>
+    <string name="you_have_won_the_game">You Have Won The Game</string>
+</resources>
